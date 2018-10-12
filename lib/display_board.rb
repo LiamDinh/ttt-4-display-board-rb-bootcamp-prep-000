@@ -3,4 +3,6 @@
 def display_board
   puts " #{board[0]}  | #{board[0]}   |  #{board[0]} "
   puts "___________"
-  puts #{board[0]}
+  puts " #{board[0]}  | #{board[0]}   |  #{board[0]} "
+  puts "___________"
+  puts " #{board[0]}  | #{board[0]}   |  #{board[0]} "
